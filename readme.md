@@ -2,12 +2,12 @@
 
 ## 1. Component List
 
-<img src="component.png">
+<img src="Component.png">
 
 ## 2. Schematic View
 
-<img src="schematic.png">
+<img src="Schematic.png">
 
 ## 3. Circuit View
 
-<img src="circuit.png">
+<img src="Circuit.png">
